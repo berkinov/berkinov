@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
-##and a little bit of## 
+**and a little bit of** 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-### ✉️ Mail me: berkinov10@mail.ru
-### 🌐 Telegram, Instagram: @berkinov10
+#### ✉️ Mail me: berkinov10@mail.ru
+#### 🌐 Telegram, Instagram: t.me/berkinov10
