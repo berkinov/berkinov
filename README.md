@@ -11,4 +11,5 @@
 **and a little bit of** 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 #### ✉️ Mail me: berkinov10@mail.ru
-#### 🌐 Telegram, Instagram: t.me/berkinov10
+#### 🌐 Telegram, Instagram: @berkinov10
+#### 🌐 Instagram, https://www.instagram.com/berkinov10/
