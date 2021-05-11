@@ -3,7 +3,7 @@
 --Whoever you are, be better--
 - 🔭 I’m currently working on very interesting project and will soon publish here.
 - 🌱 I’m currently learning JavaScript and Php.
-- ⚡ My site: Still in processing ...
+- 💻 My site: Still in processing ...
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
