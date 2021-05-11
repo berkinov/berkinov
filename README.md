@@ -1,4 +1,4 @@
-# 👋 Hi, my name is **Akhmed Berkinov**!
+# 👋 Hello, my name is **Akhmed Berkinov**!
 ## I'm a beginner *web-developer*  from Tashkent.
 --Whoever you are, be better--
 - 🔭 I’m currently working on very interesting project and will soon publish here.
