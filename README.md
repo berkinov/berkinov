@@ -13,6 +13,6 @@
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
-![PHOTOSHOP](https://img.shields.io/badge/-PS-090909?style=for-the-badge&logo=photoshop)
+![PS](https://img.shields.io/badge/-PS-090909?style=for-the-badge&logo=ps)
 #### ✉️ Мой e-mail: berkinov10@mail.ru
 #### 🌐 Telegram, Instagram: @berkinov10
