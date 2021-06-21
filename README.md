@@ -1,10 +1,10 @@
-# 👋 Hello, my name is **Akhmed Berkinov**!
-## I'm a beginner *web-developer*  from Tashkent.
---Whoever you are, be better--
-- 🔭 I’m currently working on very interesting project and will soon publish here.
-- 🌱 I’m currently learning JavaScript and Php.
-- 💻 My site: Still in processing ...
-### Languages and Technologies
+# 👋 Здравствуйте, меня зовут ** Ахмед Беркинов **!
+## Я начинающий * веб-программист * из Ташкента.
+--Кто бы ты ни был, будь лучше--
+- 🔭 Сейчас я работаю над очень интересным проектом и скоро опубликую его здесь.
+- 🌱 В настоящее время я изучаю JavaScript и Php.
+- 💻 Мой сайт: все еще в обработке ...
+### Языки и технологии:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
@@ -13,5 +13,5 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
-#### ✉️ Mail me: berkinov10@mail.ru
+#### ✉️ Мой e-mail: berkinov10@mail.ru
 #### 🌐 Telegram, Instagram: @berkinov10
