@@ -1,4 +1,4 @@
-# 👋 Здравствуйте, меня зовут **Ахмед Беркинов**!
+# 👋 Здравствуйте, меня зовут #Ахмед Беркинов#!
 ## Я начинающий *веб-программист* из Ташкента.
 --Кто бы ты ни был, будь лучше--
 - 🔭 Сейчас я работаю над очень интересным проектом и скоро опубликую его здесь.
@@ -13,5 +13,6 @@
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
+![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-090909?style=for-the-badge&logo=photoshop)
 #### ✉️ Мой e-mail: berkinov10@mail.ru
 #### 🌐 Telegram, Instagram: @berkinov10
