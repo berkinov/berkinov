@@ -1,10 +1,10 @@
 # 👋 Здравствуйте, меня зовут **Ахмед Беркинов**!
 ## Я начинающий *веб-программист* из Ташкента.
---Кто бы ты ни был, будь лучше--
-- 🔭 Сейчас работаю над очень интересным проектом и скоро опубликую его здесь.
-- 🌱 В настоящее время изучаю JavaScript и Php.
-- 💻 Мой сайт: https://berkinov.github.io/
-### Языки и технологии:
+- 🔭 Изучаю, учу веб-технологии.
+- 🌱 В настоящее время изучаю JavaScript.
+<!-- - 💻 Мой сайт: https://berkinov.github.io/ -->
+
+### Технологии которые сейчас изучаю:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
@@ -14,5 +14,5 @@
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
 ![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-090909?style=for-the-badge&logo=photoshop)
-#### ✉️ Мой e-mail: berkinov10@mail.ru
+#### ✉️ Мой Gmail: progmerweb@gmail.com
 #### 🌐 Telegram, Instagram: @berkinov10
